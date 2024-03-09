@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fvalorant-yoru-gif-valorant-yoru-cool-discover-share-gifs--951455858750551051%2F&psig=AOvVaw3fyrSg1Sn8iHh3DyS9qSH6&ust=1710053317091000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC_1ZXL5oQDFQAAAAAdAAAAABAE');
+            background-image: url('https://www.pinterest.com/pin/valorant-yoru-gif-valorant-yoru-cool-discover-share-gifs--951455858750551051/');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
