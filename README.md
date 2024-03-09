@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A 2nd Year IT Student</h3>
 <div align="center">
-<div align="center">
-  
   <img height="280" src="https://media.tenor.com/4wjff3rKodgAAAAM/yoru-yoru-valorant.gif"  />
 </div>
 
