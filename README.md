@@ -1,81 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
+###
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            background-image: url('https://www.pinterest.com/pin/valorant-yoru-gif-valorant-yoru-cool-discover-share-gifs--951455858750551051/');
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-            color: #fff; /* Change text color to contrast with the background */
-            margin: 0; /* Remove default body margin */
-            font-family: 'Arial', sans-serif; /* Choose your preferred font */
-        }
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-        h1, h3, p {
-            text-align: center;
-        }
+###
 
-        p {
-            margin: 10px 0;
-        }
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-        h3 {
-            margin-top: 20px;
-        }
+###
 
-        h3 + p {
-            margin-top: 10px;
-        }
+<br clear="both">
 
-        h3, p, a {
-            color: #fff; /* Set text color for headings, paragraphs, and links */
-        }
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-        a {
-            text-decoration: none; /* Remove underlines from links */
-        }
-
-        img {
-            display: block; /* Ensure images don't break flow */
-            margin: 10px auto; /* Center align images */
-        }
-    </style>
-</head>
-
-<body>
-
-    <h1>Hi 👋, I'm Marc</h1>
-
-    <h3>A 2nd Year IT Student</h3>
-
-    <ul>
-        <li>🔭 I’m currently studying in <strong>St. Paul University of Surigao</strong></li>
-        <li>🌱 I’m currently learning <strong>Python, Java, CSS, HTML, PHP</strong></li>
-        <li>🤝 I’m looking for help with <strong>Sir. Arnold Magalona</strong></li>
-        <li>💬 Ask me about <strong>Codes</strong></li>
-        <li>📫 How to reach me <strong>marcdaryll.trinidad@gmail.com</strong></li>
-        <li>⚡ Fun fact <strong>I can both play games and work out</strong></li>
-    </ul>
-
-    <h3>Connect with me:</h3>
-    <p>
-        <a href="https://fb.com/marc daryll trinidad" target="_blank">Facebook</a>
-        <a href="https://www.youtube.com/c/anki" target="_blank">YouTube</a>
-    </p>
-
-    <h3>Languages and Tools:</h3>
-
-    <p>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
-        <!-- Add other language and tool icons here -->
-    </p>
-
-</body>
-
-</html>
-
+###
