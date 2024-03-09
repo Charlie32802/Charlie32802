@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A 2nd Year IT Student</h3>
 <div align="center">
-  [<img height="280" src="https://i.pinimg.com/originals/46/61/d1/4661d11dc65132687316ecbf7d77b4bd.gif"  />
+  <div align="center">
+  <img height="280" src="https://media.tenor.com/4wjff3rKodgAAAAM/yoru-yoru-valorant.gif"  />
 </div>
 
-###](https://i.makeagif.com/media/5-05-2022/jmp48L.gif)
+###
 
 - 🔭 I’m currently studying in **St. Paul University of Surigao**
 
