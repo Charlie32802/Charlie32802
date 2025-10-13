@@ -109,13 +109,12 @@ const marc = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charlie32802&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie32802&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charlie32802&theme=radical&hide_border=true"/>
-  </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charlie32802&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie32802&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charlie32802&theme=radical&hide_border=true"/>
 </div>
 
 ## 🎯 Current Focus
