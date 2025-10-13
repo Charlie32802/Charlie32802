@@ -20,17 +20,17 @@
 
 <div align="center">
   
-  ```javascript
-  const marc = {
-    pronouns: "he" | "him",
-    education: "St. Paul University of Surigao",
-    year: "4th Year IT Student",
-    currentFocus: "Full Stack Web Development",
-    learning: ["HTML", "CSS", "JavaScript", "Python", "React", "Node.js"],
-    hobbies: ["Gaming", "Working Out", "Coding"],
-    funFact: "I can both play games and work out simultaneously! 🎮💪"
-  };
-  ```
+```javascript
+const marc = {
+  pronouns: "he" | "him",
+  education: "St. Paul University of Surigao",
+  year: "4th Year IT Student",
+  currentFocus: "Full Stack Web Development",
+  learning: ["HTML", "CSS", "JavaScript", "Python", "React", "Node.js"],
+  hobbies: ["Gaming", "Working Out", "Coding"],
+  funFact: "I can both play games and work out simultaneously! 🎮💪"
+};
+```
 </div>
 
 ## 📬 Connect With Me
@@ -121,15 +121,16 @@
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
-  <br>
-  <em>Building my skills in web development</em>
-  <br><br>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <br>
-  <em>Always learning, always growing! 🌱</em>
+  <p>
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
+    <br>
+    <em>Building my skills in Full Stack Web Development</em>
+    <br><br>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+    <br>
+    <em>Always learning, always growing! 🌱</em>
+  </p>
 </div>
-
 <div align="center">
   <!-- Animated divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
