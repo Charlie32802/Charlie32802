@@ -1,143 +1,161 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi, I'm Marc
+  Hey, I'm Marc — aka Charlie
 </h1>
-<h3 align="center">🎓 4th Year IT Student | 💻 Aspiring Full Stack Developer</h3>
+
+<h3 align="center">🎓 BSIT Graduate · St. Paul University of Surigao · April 2026</h3>
+<h4 align="center">💜 Full Stack Django Developer · LLM Integrator · Vibe Coder</h4>
 
 <div align="center">
-  <img height="280" src="https://media.tenor.com/4wjff3rKodgAAAAM/yoru-yoru-valorant.gif" />
+  <img height="260" src="https://media.tenor.com/4wjff3rKodgAAAAM/yoru-yoru-valorant.gif" />
 </div>
 
 <br>
 
 <div align="center">
-  
+
   ![Profile Views](https://komarev.com/ghpvc/?username=Charlie32802&color=blueviolet&style=flat-square)
-  
+
 </div>
 
-## 📖 About Me
+---
+
+## 🧠 About Me
 
 <div align="center">
-  
+
 ```javascript
 const marc = {
-  pronouns: "he" | "him",
-  education: "St. Paul University of Surigao",
-  year: "4th Year IT Student",
-  currentFocus: "Full Stack Web Development",
-  learning: ["HTML", "CSS", "JavaScript", "Python", "React", "Node.js"],
-  hobbies: ["Gaming", "Working Out", "Coding"],
-  funFact: "I can both play games and work out simultaneously! 🎮💪"
+  alias:       "Charlie Soniac Spencer",
+  degree:      "Bachelor of Science in Information Technology",
+  school:      "St. Paul University of Surigao",
+  graduated:   "April 25, 2026",
+  status:      "Actively seeking opportunities 🔍",
+  focus:       "Full Stack Django Web Development",
+  stack:       ["Python", "Django", "HTML/CSS/JS", "PostgreSQL", "SQLite", "Redis"],
+  ai:          ["Groq API", "LLaMA 3.3 70B", "Local LLMs", "SSE Streaming"],
+  tools:       ["VS Code", "GitHub", "import antigravity  # yes, that one 🪂"],
+  hobbies:     ["Valorant", "Dota 2", "Gym 4×/week", "Vibe Coding"],
+  philosophy:  "I do not deny my beginnings. I transcend through discipline and resolve.",
 };
 ```
+
 </div>
+
+> *I code the way I lift — sometimes ugly, always intentional.
+> I use AI to move fast, but I make sure I understand the problems I'm actually solving.*
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack | Status |
+|:---:|:---|:---|:---:|
+| 🧠 **MindEase** | Integrated mental health platform w/ AI companion, live teleconsultation, real-time chat & admin panel. Group thesis project I personally rebuilt and shipped. | Django · MySQL · Redis · Groq · Agora RTC · Django Channels | 🎓 Thesis |
+| ❄️ **[Snowfriend](https://snowfriend.onrender.com/)** | Personalized AI companion with long-term user memory for meaningful daily reflection and emotional offloading. | Django · Groq · LLaMA 3.3 70B · SSE · SQLite · argon2 | 🟢 Live |
+| 🏅 **[Gradlyte](https://gradlyte.onrender.com/)** | Unified productivity hub for post-grads — job pipeline tracker, secure document vault, interactive canvas workspace. | Django 6.0 · PostgreSQL · Fabric.js · Google OAuth · Gunicorn | 🟢 Live |
+
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI & Integrations**
+
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Meta](https://img.shields.io/badge/LLaMA_3.3_70B-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+**Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charlie32802&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie32802&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charlie32802&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## ⚡ Beyond the Code
+
+<div align="center">
+  <p>
+    🎮 &nbsp;<strong>Valorant</strong> + <strong>Dota 2</strong> — gaming is a lifestyle, not a phase
+    &nbsp;|&nbsp;
+    🏋️ &nbsp;<strong>Gym 4× a week</strong> — chasing strength despite metabolic bone disease
+  </p>
+  <p>
+    🦾 &nbsp;<strong>PWD Athlete</strong> — I don't use it as a ceiling, only as context
+    &nbsp;|&nbsp;
+    🏆 &nbsp;<strong>Debate Champion</strong> — 1st Place, Batang Surigaonon Competition 2024
+  </p>
+  <img src="https://media.tenor.com/4wjff3rKodgAAAAM/yoru-yoru-valorant.gif" width="180">
+</div>
+
+---
 
 ## 📬 Connect With Me
 
 <div align="center">
-  <p align="center">
-    <a href="https://fb.com/marc.daryll.trinidad" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marc daryll trinidad" height="45" width="45" />
-    </a>
-    <a href="https://www.youtube.com/c/anki" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anki" height="45" width="45" />
-    </a>
-    <a href="mailto:marcdaryll.trinidad@gmail.com" target="blank">
-      <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="45" width="45" />
-    </a>
-  </p>
+  <a href="https://www.facebook.com/share/1CMJzS6NKH/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:marcdaryll.trinidad@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://marc.charlie.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </div>
 
-## 💻 Languages and Tools
+<br>
 
 <div align="center">
-  <p align="center">
-    <!-- HTML5 -->
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-    </a>
-    <!-- CSS3 -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-    </a>
-    <!-- JavaScript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-    </a>
-    <!-- Python -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-    </a>
-    <!-- Bootstrap -->
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-    </a>
-    <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-    </a>
-  </p>
-  <p align="center">
-    <!-- HTML5 Icon -->
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
-    </a>
-    <!-- CSS3 Icon -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
-    </a>
-    <!-- JavaScript Icon -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-    </a>
-    <!-- Python Icon -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-    </a>
-    <!-- Bootstrap Icon -->
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-    </a>
-    <!-- MySQL Icon -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-    </a>
-  </p>
-</div>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charlie32802&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie32802&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charlie32802&theme=radical&hide_border=true"/>
-</div>
-
-## 🎯 Current Focus
-
-<div align="center">
-  <p>
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
-    <br>
-    <em>Building my skills in Full Stack Web Development</em>
-    <br><br>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-    <br>
-    <em>Always learning, always growing! 🌱</em>
-  </p>
-</div>
-<div align="center">
-  <!-- Animated divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## ⚡ Fun Fact of the Day
-
 <div align="center">
-  <p>I can both play games and work out! 🎮 + 💪 = 🚀</p>
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HDbdG/giphy.gif" width="200">
+  <sub>
+    <i>"I do not deny my beginnings. I transcend through discipline and resolve."</i>
+    <br>
+    — Marc Daryll Trinidad · BSIT 2026 · St. Paul University of Surigao
+  </sub>
 </div>
