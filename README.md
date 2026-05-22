@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Charlie32802&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Charlie32802&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -22,25 +22,21 @@
 
 ## 🧠 About Me
 
-<div align="center">
-
 ```javascript
 const marc = {
-  alias:       "Charlie Soniac Spencer",
-  degree:      "Bachelor of Science in Information Technology",
-  school:      "St. Paul University of Surigao",
-  graduated:   "April 25, 2026",
-  status:      "Actively seeking opportunities 🔍",
-  focus:       "Full Stack Django Web Development",
-  stack:       ["Python", "Django", "HTML/CSS/JS", "PostgreSQL", "SQLite", "Redis"],
-  ai:          ["Groq API", "LLaMA 3.3 70B", "Local LLMs", "SSE Streaming"],
-  tools:       ["VS Code", "GitHub", "import antigravity  # yes, that one 🪂"],
-  hobbies:     ["Valorant", "Dota 2", "Gym 4×/week", "Vibe Coding"],
-  philosophy:  "I do not deny my beginnings. I transcend through discipline and resolve.",
+  alias: "Charlie Soniac Spencer",
+  degree: "Bachelor of Science in Information Technology",
+  school: "St. Paul University of Surigao",
+  graduated: "April 25, 2026",
+  status: "Actively seeking opportunities 🔍",
+  focus: "Full Stack Django Web Development",
+  stack: ["Python", "Django", "HTML/CSS/JS", "PostgreSQL", "SQLite", "Redis"],
+  ai: ["Groq API", "LLaMA 3.3 70B", "Local LLMs", "SSE Streaming"],
+  tools: ["VS Code", "GitHub", "Google Antigravity"],
+  hobbies: ["Valorant", "Dota 2", "Gym 4×/week", "Vibe Coding"],
+  philosophy: "I do not deny my beginnings. I transcend through discipline and resolve.",
 };
 ```
-
-</div>
 
 > *I code the way I lift — sometimes ugly, always intentional.
 > I use AI to move fast, but I make sure I understand the problems I'm actually solving.*
@@ -102,12 +98,9 @@ const marc = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charlie32802&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie32802&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charlie32802&theme=tokyonight&hide_border=true"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Charlie32802&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
@@ -123,7 +116,7 @@ const marc = {
   <p>
     🦾 &nbsp;<strong>PWD Athlete</strong> — I don't use it as a ceiling, only as context
     &nbsp;|&nbsp;
-    🏆 &nbsp;<strong>Debate Champion</strong> — 1st Place, Batang Surigaonon Competition 2024
+    🗣️ &nbsp;<strong>Debate Semi-Finalist</strong> — Batang Surigaonon Competition 2024
   </p>
   <img src="https://media.tenor.com/4wjff3rKodgAAAAM/yoru-yoru-valorant.gif" width="180">
 </div>
@@ -133,17 +126,13 @@ const marc = {
 ## 📬 Connect With Me
 
 <div align="center">
-  <a href="https://www.facebook.com/share/1CMJzS6NKH/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:marcdaryll.trinidad@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://marc.charlie.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61585918419963)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcdaryll.trinidad@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://charlie32802.github.io/Portfolio/)
+
 </div>
 
 <br>
